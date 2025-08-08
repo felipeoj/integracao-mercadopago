@@ -26,12 +26,12 @@ src/
 
 ##  Funcionalidades Planejadas
 
-- 🧾 Geração de Boletos Bancários
-- 🧑‍🤝‍🧑 Gestão de Assinaturas Recorrentes
-- 🔐 Implementação de Autenticação JWT
-- 🧪 Testes automatizados com Jest
-- 📦 Integração com Prisma ORM para persistência de dados
-- 🌐 Suporte a múltiplos idiomas (i18n)
+-  Geração de Boletos Bancários
+-  Gestão de Assinaturas Recorrentes
+-  Implementação de Autenticação JWT
+-  Testes automatizados com Jest
+-  Integração com Prisma ORM para persistência de dados
+-  Suporte a múltiplos idiomas (i18n)
 
 ##  Tecnologias Utilizadas
 
